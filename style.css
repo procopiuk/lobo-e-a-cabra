@@ -4,4 +4,9 @@ body{
     border: solid;
     line-height: 1.5;
     text-align:center;
+
+}
+
+P{
+    font: 100;
 }
