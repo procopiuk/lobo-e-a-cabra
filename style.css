@@ -1,4 +1,6 @@
 body{
-    background-color: aquamarine;
+    background-color: rgb(169, 245, 255);
+    color: bisque;
     border: solid;
+    line-height: 1.5;
 }
